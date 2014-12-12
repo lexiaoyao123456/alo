@@ -1,0 +1,6 @@
+#ifndef __ITEM_H
+#define __ITEM_H
+
+typedef Item int
+
+#endif
